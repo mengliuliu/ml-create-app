@@ -1,0 +1,31 @@
+{
+  "name": "ml-create-app",
+  "version": "1.0.0",
+  "description": "前端脚手架，里含有react模版、vue模版",
+  "main": "index.js",
+  "bin": {
+    "ml-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengliuliu/ml-create-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengliuliu/ml-create-app/issues"
+  },
+  "homepage": "https://github.com/mengliuliu/ml-create-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.0"
+  }
+}
