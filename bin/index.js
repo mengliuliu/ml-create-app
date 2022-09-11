@@ -82,7 +82,7 @@ program
   .action(() => {
     console.log(
       `template-vue vue模板
-      template-react react模板`
+template-react react模板`
     )
   })
 
